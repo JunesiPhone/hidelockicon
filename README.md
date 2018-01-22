@@ -9,3 +9,4 @@ Electra Install
 ----
 
 [hidelockicon.zip](https://github.com/JunesiPhone/hidelockicon/files/1651239/hidelockicon.zip)
+[hidelock1.0.1.zip](https://github.com/JunesiPhone/hidelockicon/files/1651797/hidelock1.0.1.zip)
