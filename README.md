@@ -8,3 +8,4 @@ Hides the lock icon on the lock screen.
 Electra Install
 ----
 
+[hidelockicon.zip](https://github.com/JunesiPhone/hidelockicon/files/1651239/hidelockicon.zip)
