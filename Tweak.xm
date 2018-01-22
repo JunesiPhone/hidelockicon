@@ -4,7 +4,7 @@
 //  Copyright © 2018 JunesiPhone. All rights reserved.
 
 %hook SBDashBoardProudLockViewController
-- (void)_setIconVisible:(_Bool)arg1 animated:(_Bool)arg2{
-
+- (id)proudLockIconView{
+	return nil;
 }
 %end
