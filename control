@@ -1,0 +1,9 @@
+Package: com.junesiphone.hidelockicon
+Name: hidelockicon
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hide lock icon on the lockscreen iPhoneX!
+Maintainer: JunesiPhone
+Author: JunesiPhone
+Section: Tweaks
